@@ -107,6 +107,7 @@ The core Ruby Classes `Symbol`, `String`, `Numeric`, `true`, `false`, `nil`,
 
 ### WDDX.dump
 You can use WDDX.dump to serialize Ruby objects.
+
     WDDX.dump("Hallo Welt") # => "<wddxPacket version='1.0'><header/><data><string>Hallo Welt</string></data></wddxPacket>"
 
 Custom Ruby classes can be serialized by adding a `to_wddx_properties` method
@@ -156,7 +157,9 @@ String). WDDX::RecordSet represents a RecordSet with data rows an column meta
 information.
 
 ## Type mapping
+
 The following table shows the data type mapping WDDX <=> Ruby.
+
     WDDX Type      Ruby Type
     ---------      ---------------------
     String         String
