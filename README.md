@@ -186,10 +186,13 @@ Example:
 
 Homepage
 :   http://rubyforge.org/projects/wddx/
+
 Blog
 :   http://juretta.com/
+
 Bugtracker
 :   http://rubyforge.org/tracker/?group_id=2715
+
 WDDX
 :   http://www.openwddx.org/
 
