@@ -1,0 +1,8 @@
+language: ruby
+rvm:
+        - 1.9.3
+        - 2.3.1
+        - 2.4.6
+        - 2.5.1
+        - 2.6.5
+script: cd test && ruby wddx_test.rb
