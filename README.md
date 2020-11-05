@@ -178,6 +178,7 @@ You can add the wddx gem to your rails application to be able to serialize
 ActiveRecord objects to WDDX.
 
 In config/environment.rb add:
+
     require 'wddx'
 
 Example:
