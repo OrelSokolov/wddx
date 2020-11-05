@@ -1,4 +1,4 @@
-# WDDX
+# WDDX ![build](https://travis-ci.org/OrelSokolov/wddx.svg?branch=master)
 
 http://wddx.rubyforge.org/
 
